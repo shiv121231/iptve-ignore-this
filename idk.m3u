@@ -1,5 +1,2 @@
-#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="Sky Sports F1" tvg-log="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.webp" group-title="Live Events",[Boys High School Basketball] Nike EYBL Peach Jam (Teams TBA) | NBA TV USA (HOOFUT)
-#EXTVLCOPT:http-referrer=https://hoofoot.ru
-#EXTVLCOPT:http-origin=https://hoofoot.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3ODQ5OTA3MTE4MzY6Y2RubGl2ZXR2LnR2OjcyNjRiYmRlYzBkNDY5ODMuNTZiYTM5NDFhNTIxODdiMWE0MTY3Yzk3MWNlN2FhNGQ3OTRjMWYzNjk2MTE3NmFkODBkYzM0MjI2MTQ4Y2ZhNQ
+#EXTINF:-1 tvg-chno="161" tvg-id="ep7" tvg-name="ep7" tvg-log="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.webp" group-title="ep7",ep7
+https://img1.fcxmb.com/hls_mps/c30c331376409f718c70901d41fcce1a204da0bd/720/index_266.m3u8?Expires=1792417677&KeyName=Signature&Signature=esxi0XpJuJfbkTSL0yInS34Phpl4RfRn0NEhufsWtWRab9nKMNvBS7TctrVTzWOeCC_vZtah_ataymgGCQSsAA==
