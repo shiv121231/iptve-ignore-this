@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://myflixbd.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
-https://raw.githubusercontent.com/shiv121231/iptve-ignore-this/refs/heads/main/480.m3u8
+#EXTVLCOPT:http-referrer=https://player.abyssplayer.com/TSgVXQBKl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
+https://dist-cache-sg02.abyssplayer.com/videos/31472923/master.m3u8
