@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep31
-https://proxy.valhallastream.com/m3u8?url=https%3A%2F%2Fimg1.fcxmb.com%2Fhls_mps%2Fa36a8f468815a1faced4acb63f3a75e22075190c%2F720%2Findex_266.m3u8%3FExpires%3D1793710055%26KeyName%3DSignature%26Signature%3D8VRMfKdSB2qu-DfK4FBLg1oykBQuwRDFIx06nzL4lwTfhTkggiQJwGhgpg-OicJ8U5VJx1_Bnv7-7TUlQUcNBA%3D%3D&headers=%7B%22Referer%22%3A%22https%3A%2F%2Fapi.hlowb.com%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D
+https://img1.fcxmb.com/hls_mps/a36a8f468815a1faced4acb63f3a75e22075190c/720/index_266.m3u8:Expires=1793710055&KeyName=Signature&Signature=8VRMfKdSB2qu-DfK4FBLg1oykBQuwRDFIx06nzL4lwTfhTkggiQJwGhgpg-OicJ8U5VJx1_Bnv7-7TUlQUcNBA==
