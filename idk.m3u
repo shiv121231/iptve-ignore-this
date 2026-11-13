@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep50
-https://img1.fcxmb.com/hls_mps/5c1749b55e08b004513cea6ea6e8858fa041cd13/720/index_266.m3u8?Expires=1794475947&KeyName=Signature&Signature=7RgDgMm7jt3JizZM32Oye66dt5vd66N6C65JFiSy-WT6fwPcazogknExrRaW2g_0skBpIkln29kgGhPocjN5Dw==
-#EXTINF:0 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep51
-https://img1.fcxmb.com/hls_mps/de3497a041ecfa478618d42d3a18e51f7452e7c3/720/index_266.m3u8?Expires=1794489820&KeyName=Signature&Signature=GLddjsWxev9yWnOO49rghmJkW2iPoZe8uVox9rlBrH0D96emEJsPDg91cNa5tAXQCMFa_Dy10_kZ0uFRnXQ-Cg==
-#EXTINF:1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep52
-https://img1.fcxmb.com/hls_mps/10079cdfea8be295cfe8baeb7d8d72f80f36ac7e/720/index_266.m3u8?Expires=1794495721&KeyName=Signature&Signature=rOs5eyyG8sDIK9PKyTiOFH-VKTiYsTICqDS9IpfNT_LL6w35zlFb-HwKTZNDjAeo8-dtCS6e9VpyY2RXZQBpBQ==
-#EXTINF:2 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Sports",Fox503
-https://tims-001.sytes.net/main/secure/246aa022027e79a846900bd6556ac10685a4a98219e687428b2f55bb392e48e4/1794549808/fox-sports-503.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep53
+https://img1.fcxmb.com/hls_mps/0ffb5acfd4e856f1dc3158574625d63c6d8460a7/720/index_266.m3u8?Expires=1794577487&KeyName=Signature&Signature=WnEvzFSwymKmFRn29h3DQ0Y8rdhwYPWxwuclSQ-qqK-9Q9tYhNculmLxxbq3ydA7vqV8Qb_HMru4WnH1bpqVAA==
+#EXTINF:0 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep54
+https://img1.fcxmb.com/hls_mps/b29b1eb5ebb81f1bc8e2bd9c3073068795e44607/720/index_266.m3u8?Expires=1794577722&KeyName=Signature&Signature=JR4MoNhY5aEhcQIMk4EfXg5xM1os5bs7YUjP-JNnReNPP01WBo8jeV8bEmBAfEAh1kkKZO6byvkY0rBqCg9eDA==
