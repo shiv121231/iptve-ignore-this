@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep78
+https://img1.fcxmb.com/hls_mps/2d02ae25a8ad9169bb6ee1972f67cfba3eaf7540/720/index_266.m3u8?Expires=1795529327&KeyName=Signature&Signature=QkDDP0m5BgbRE01DwS4cPz_cdE01vAxFtAArhzaV-dB9bKOrNrJRyA2IN0x_v3PTHhoWb9m6simaM-xsE3ohBg== 
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep76
 https://img1.fcxmb.com/hls_mps/e7aa541d8d282562b520bdfeff390850880a00ca/720/index_266.m3u8?Expires=1795337691&KeyName=Signature&Signature=3yIp-5_MxMLsHjfDxCNUellObcPDt1J-G4-zQCcLTK9cSJ27kc0sRVCCiAra2Mlg950kyIwVRfe3T2FjAV25DQ== 
 #EXTINF:0 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep77
